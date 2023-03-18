@@ -107,8 +107,8 @@ local PredictionValue = 0.1142154
                 if Settings.rewrittenmain.NOTIF == true then
                     Plr = getClosestPlayerToCursor()
                 game.StarterGui:SetCore("SendNotification", {
-                    Title = "yarn | revamped";
-                    Text = "Unlocked",
+                    Title = "Metrofyy Aimbot";
+                    Text = "Not Enabled",
                     Duration = 3
                 })
             end
@@ -118,7 +118,7 @@ local PredictionValue = 0.1142154
                 if Settings.rewrittenmain.NOTIF == true then
 
                     game.StarterGui:SetCore("SendNotification", {
-                        Title = "yarn | revamped";
+                        Title = "Metrofyy cheat";
                         Text = "Target: "..tostring(Plr.Character.Humanoid.DisplayName),
                         Duration = 3
                     })
