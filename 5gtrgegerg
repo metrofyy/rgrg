@@ -265,10 +265,6 @@ if game.PlaceId == 5602055394 then
     print'hood modded'
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro2/main/ui2"))()
 local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
-NotifyLib.prompt('Moon God - Q To Lock  - Revamped by Valox', 'Loading..', 5)
-NotifyLib.prompt('Moon God - Revamped by Valox', 'best lock ong - valox', 5)
-NotifyLib.prompt('Moon God - Revamped by Valox', 'yarn#0001, Valox#8980', 5)
-NotifyLib.prompt('Game Detected: Hood Modded', 'yarn#0001, Valox#8980', 5)
         Settings = {
         rewrittenmain = {
         Enabled = true,
@@ -381,7 +377,7 @@ local PredictionValue = 0.125
                 if Settings.rewrittenmain.NOTIF == true then
 
                     game.StarterGui:SetCore("SendNotification", {
-                        Title = "Metrofyy!";
+                        Title = "Enabled!";
                         Text = "close: "..tostring(Plr.Character.Humanoid.DisplayName),
                         Duration = 3
                     })
@@ -528,10 +524,6 @@ if game.PlaceId == 9183932460 then
     print'Untitled Hood'
     local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro2/main/ui2"))()
 local NotifyLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/vKhonshu/intro/main/ui"))()
-NotifyLib.prompt('Moon God - Q To Lock  - Revamped by Valox', 'Loading..', 5)
-NotifyLib.prompt('Moon God - Revamped by Valox', 'best lock ong - valox', 5)
-NotifyLib.prompt('Moon God - Revamped by Valox', 'yarn#0001, Valox#8980', 5)
-NotifyLib.prompt('Game Detected: Untitled Hood', 'yarn#0001, Valox#8980', 5)
         Settings = {
         rewrittenmain = {
         Enabled = true,
